@@ -79,7 +79,7 @@ Time Frame: 5 year time frame 2013-2018
 * Data/Total_Migration_2013-2018_CSV.csv - migration data for all 52 states 
    * `move_in` - number people moved into the specific state this year
    * `move_out` - number people moved out from the specific state this year
-   * `Delta` = (`move_in` - `move_out`). For excample, CA has negative delta that means that more people move out of this state that moved in. Population of state with negative value is decreasing.
+   * `Delta` = (`move_in` - `move_out`). For excample, CA has negative delta that means that more people move out of this state that moved in. 
 
 * Data/all_census_data.csv - final DataFrame used for analysis for CA, FL, OR, CO, ID, TX (2013-2018 years):
 
@@ -104,6 +104,19 @@ Time Frame: 5 year time frame 2013-2018
    * `move_out` - number people moved out from the specific state this year
    * `Delta` = (`move_in` - `move_out`) 
 
+## **Results and Discussions**:
 
 
+
+## **Summary and Conclusions**
+
+* General Conclusions and What Findings Mean:
+
+The information gathered from the US Census confirms our hypothesis that money inequality, expensive housing and traffic congestion are a few of many factors that are leading Californians to leave the state.
+
+Implications: These are not the only factors beyond those covered in the US Census that are reasons why people may be leaving.
+2. Difficulties
+We faced difficulties in using some of the US Census API data as it wouldn’t always lead where we needed for information. Many hours were needed to locate some of the necessary data used for the project.
+3. Additional Questions
+We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
 
