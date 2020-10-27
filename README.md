@@ -24,15 +24,15 @@ Time Frame: 5 year time frame 2013-2018
 
 ## **Team and Contributions**
 
-* Jenifer Hwang: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
+* **Jenifer Hwang**: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
 
-* Daniel Kim: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
+* **Daniel Kim**: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
 
-* Natalia Karimova: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
+* **Natalia Karimova**: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
 
-* Hossein Esteaneh: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
+* **Hossein Esteaneh**: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
 
-* Sara McLean: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
+* **Sara McLean**: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
 
 ## **Data Set and Supporting Information**
 
