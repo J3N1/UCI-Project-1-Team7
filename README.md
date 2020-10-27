@@ -73,21 +73,27 @@ Generated data files:
    * `Delta` = (`move_in` - `move_out`). For excample, CA has negative delta that means that more people move out of this state that moved in. Population of state with negative value is decreasing.
 
 * all_census_data.csv - final DataFrame used for analysis for CA, FL, OR, CO, ID, TX (2013-2018 years):
-   * `Population` - 
-   * `Per Capita Income` - 
-   * `Poverty Count` - 
-   * `Rent(%)` -  Median Rent as a Percentage of Houshold Income
-   * `House with mortgage(%)` -  Median Owner Cost for House WITH Mortgage as a Percentage of Houshold Income 
-   * `House without mortgage(%)` -  Median Owner Cost for House WITHOUT Mortgage as a Percentage of Houshold Income 
-   * `Mean of Trans by Age` - 
-   * `Travel Time to Work` - 
-   * `Race Total` - 
-   * `White alone` - 
-   * `Block or African American alone` - 
-   * `American Indian and Alaska Native Alone` - 
-   * `Asian Alone` - 
-   * `Unemployement count` - 
 
+   * `Year` - 2013, 2014, 2015, 2016, 2016, 2017, 2018
+   * `State Name` - California, Florida, Oregon, Colorado, Idaho, Texas
+   * `Population` - total population in the state
+   * `Per Capita Income` - per capita income in the past 12 months 
+   * `Poverty Count` - Income in the past 12 months below poverty level
+   * `Rent(%)` -  Median Rent as a Percentage of Houshold Income (%)
+   * `House with mortgage(%)` -  Median Owner Cost for House WITH Mortgage as a Percentage of Houshold Income (%)
+   * `House without mortgage(%)` -  Median Owner Cost for House WITHOUT Mortgage as a Percentage of Houshold Income (%)
+   * `Mean of Trans by Age` - Means of transportation to work by age (Total in minutes)
+   * `Travel Time to Work` - Travel time to work (Total in minutes)
+   * `Race Total` - population of the state
+   * `White alone` - number of White people in the state
+   * `Block or African American alone` - number of African American people in the state
+   * `American Indian and Alaska Native Alone` - number of Indian and Alaska Native people in the state
+   * `Asian Alone` - number of Asian people in the state
+   * `Unemployement count` - number of Unemployed people in the state
+   * `Poverty Rate` = (`Poverty Count` / `Population`)*100
+   * `move_in` - number people moved into the specific state this year
+   * `move_out` - number people moved out from the specific state this year
+   * `Delta` = (`move_in` - `move_out`) 
 
 
 
