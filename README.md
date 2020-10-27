@@ -65,14 +65,23 @@ Time Frame: 5 year time frame 2013-2018
     * https://next10.org/sites/default/files/California-Migration-Final2.pdf
 
 
-Generated data files:
+## **Scripts**
 
-* Total_Migration_2013-2018_CSV.csv - migration data for all states (number people move_in, number people move_out, delta = (number people move_in) - (number people move_out)
+* vba_for_migration.vb - VBA script to collect migration data from the state-to-state migration Tables (Census) for selected year. Final DataFrame with migration data over 6 years (2013-2018) can be foun in here (Data/Total_Migration_2013-2018_CSV.csv).
+
+* data_collection.ipynb - jupyter notebook script to collect Cencus api data and merge results with with Total_Migration_2013-2018_CSV.csv dataframe. The final DataFrame used for further analysis  is Data/all_census_data.csv 
+
+* final_script.ipynb - final script for analysis collected data.
+
+
+## **Data files desctiption**:
+
+* Data/Total_Migration_2013-2018_CSV.csv - migration data for all 52 states 
    * `move_in` - number people moved into the specific state this year
    * `move_out` - number people moved out from the specific state this year
    * `Delta` = (`move_in` - `move_out`). For excample, CA has negative delta that means that more people move out of this state that moved in. Population of state with negative value is decreasing.
 
-* all_census_data.csv - final DataFrame used for analysis for CA, FL, OR, CO, ID, TX (2013-2018 years):
+* Data/all_census_data.csv - final DataFrame used for analysis for CA, FL, OR, CO, ID, TX (2013-2018 years):
 
    * `Year` - 2013, 2014, 2015, 2016, 2016, 2017, 2018
    * `State Name` - California, Florida, Oregon, Colorado, Idaho, Texas
