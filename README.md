@@ -39,9 +39,11 @@ Time Frame: 5 year time frame 2013-2018
 * api.census.gov/ 
 Transportation; Population; Incomes; Housing Costs; Taxation; Populations
 
-* State-to-state migration Tables (Census): https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html
+* State-to-state migration Tables (Census): 
+https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html
 
 * Supporting Information:
+
 https://www.economy.com/united-states/net-migration
 https://www.nytimes.com/2020/01/09/upshot/american-population-slowdown.html 
 https://www.prb.org/usdata/indicator/migration/map/state/2010/ 
