@@ -203,19 +203,23 @@ While California shows higher incomes over 5 competing states, there is higher i
 
 * The most attractive states to have property is ID, TX and CO.
 
-* There is a weak positive correlation between migration out of CA due to a housing prices (r-value = 0.45). So, there are additional more valuable reasons why people prefer to move out from CA.
+* There is a weak positive correlation between migration out of CA and housing prices (r-value = 0.45). So, there are additional more valuable reasons why people prefer to move out from CA.
 
 ## **Summary and Conclusions**
 
 * General Conclusions and What Findings Mean:
 
-The information gathered from the US Census confirms our hypothesis that money inequality, expensive housing and traffic congestion are a few of many factors that are leading Californians to leave the state.
+      * The information gathered from the US Census confirms our hypothesis that money inequality, expensive housing and traffic congestion are a few of many factors that are leading Californians to leave the state.
 
-Implications: These are not the only factors beyond those covered in the US Census that are reasons why people may be leaving.
-2. Difficulties
-We faced difficulties in using some of the US Census API data as it wouldn’t always lead where we needed for information. Many hours were needed to locate some of the necessary data used for the project.
-3. Additional Questions
-We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
+* Implications: 
+
+      * These are not the only factors beyond those covered in the US Census that are reasons why people may be leaving.
+      
+* Difficulties:
+      * We faced difficulties in using some of the US Census API data as it wouldn’t always lead where we needed for information. Many hours were needed to locate some of the necessary data used for the project.
+
+* Additional Questions:
+      * We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
 
 
 
