@@ -108,10 +108,28 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **I. Population and Migration Findings**
 
-![population_cap](Images/CAPopulation.png)
-![population_cap](Images/CAMigration.png.png)
+![population_ca](Images/CAPopulation.png) 
+
+![migrations_state-to-state](Images/CAMigration.png.png)
 
 * Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
+
+### **II. Population and Demographics**
+
+![demographocs_ca](Images/California_Race_Change_by_years.png) 
+
+* From 2013 to 2018 there are no significant change on demographics. Only Asian population is  moderately increased compare to other races.
+
+* We found that growth of Asian population seems the reason of growing California’s population.
+
+![asian_in_ca](Images/CAMigration.png.png)
+
+### **III. Population and Unemployment Findings**
+
+![unemployment](Images/California_Unemployment_count.png)
+
+* California unemployment count is decreasing by years. 
+* Based on census data, California’s unemployment count declines more than other states. 
 
 
 
