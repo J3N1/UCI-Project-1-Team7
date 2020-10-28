@@ -194,7 +194,7 @@ While California shows higher incomes over 5 competing states, there is higher i
 
 * The most attractive states to have property is ID, TX and CO.
 
-* There is a weak positive correlation between migration out of CA and housing prices (r-value = 0.45). So, there are additional more valuable reasons why people prefer to move out from CA.
+* There is a weak positive correlation between migration out of CA and housing prices (r-value = 0.45). So, it should be additional valuable reasons why people prefer to move out from CA.
 
 ## **Summary and Conclusions**
 
