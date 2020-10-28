@@ -214,5 +214,3 @@ While California shows higher incomes over 5 competing states, there is higher i
    
    * We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
 
-
-
