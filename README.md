@@ -117,6 +117,7 @@ Time Frame: 5 year time frame 2013-2018
 ### **II. Population and Demographics**
 
 ![demographocs_ca](Images/California_Race_Change_by_years.png) 
+![asian_count_ca](Images/Asiancount_cal_bar.png)
 
 * From 2013 to 2018 there are no significant change on demographics. Only Asian population is  moderately increased compare to other races.
 
