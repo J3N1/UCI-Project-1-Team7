@@ -180,9 +180,9 @@ California shows higher incomes compared to USA average and 5 competing states o
 
 ![acs_gini](Images/Gini_CoSummary.png)
 
-ACS Gini co-efficient: measure of income inequality calculated by US Census
-0: closer to zero (0) represents perfect equality
-1: closer to one(1) represents perfect inequality
+* ACS Gini co-efficient: measure of income inequality calculated by US Census:
+      * 0: closer to zero (0) represents perfect equality
+      * 1: closer to one(1) represents perfect inequality
 
 * California show higher income inequality than 5 competing states and USA average
 While California shows higher incomes over 5 competing states, there is higher income inequality among the population compared to 5 competing states and USA average
@@ -193,9 +193,17 @@ While California shows higher incomes over 5 competing states, there is higher i
 * California pays higher state taxes than 5 competing states.
 * While California has higher incomes,  more goes to taxes than other states.
 
+### **VII. Migration vs Rent & Housing**
 
+![rent](Images/Median_Rent_as_Percentage_of_Houshold_Income.png) ![house_with_mortgage](Images/Median_Owner_Cost_for_House_With_Mortgage.png)
 
+* Both California and Florida have higher rent. 
 
+* California is the most expensive state to buy a house with mortgage.
+
+* The most attractive states to have property is ID, TX and CO.
+
+* There is a weak positive correlation between migration out of CA due to a housing prices (r-value = 0.45). So, there are additional more valuable reasons why people prefer to move out from CA.
 
 ## **Summary and Conclusions**
 
