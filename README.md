@@ -108,8 +108,7 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **I. Population and Migration Findings**
 
-![population_ca](Images/CAPopulation.png)  
-![migrations_state-to-state](Images/CAMigration.png)
+![population_ca](Images/CAPopulation.png) ![migrations_state-to-state](Images/CAMigration.png)
 
 * Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
 
@@ -121,8 +120,6 @@ Time Frame: 5 year time frame 2013-2018
 * From 2013 to 2018 there are no significant change on demographics. Only Asian population is  moderately increased compare to other races.
 
 * We found that growth of Asian population seems the reason of growing California’s population.
-
-
 
 ### **III. Population and Unemployment Findings**
 
@@ -142,6 +139,15 @@ Time Frame: 5 year time frame 2013-2018
 * We found that population and unemployment count indicate a negative correlation.
 
 * Therefore, we conclude that unemployment is not the reason of people leaving California.
+
+### **IV. Transportation/Traffic Congestion (travel time to & from work)**
+
+![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) ![travel_time_bar](Images/6_States_Travel_Time%_in_(2018).png)
+
+* Travel time to work could be one of the reason people are leaving California compare with other five states. 
+* In these graphs we can see that people spend more time to travel to work instead of being with their family. 
+* Texas and Florida have more travel time to work after California, and Idaho is the lowest. 
+* In this pie graph we could see people in California spend the most travel time to work and Idaho with the lowest .
 
 
 
