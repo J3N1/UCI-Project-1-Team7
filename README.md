@@ -42,30 +42,6 @@ Time Frame: 5 year time frame 2013-2018
 
 * State-to-state migration Tables (Census): [link](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
 
-
-    * https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html
-
-* Supporting Information:
-
-    * https://www.economy.com/united-states/net-migration
-
-    * https://www.nytimes.com/2020/01/09/upshot/american-population-slowdown.html
-
-    * https://www.prb.org/usdata/indicator/migration/map/state/2010/ 
-
-    * https://www.census.gov/library/stories/2019/04/moves-from-south-west-dominate-recent-migration-flows.html
-
-    * https://www.ocregister.com/2019/10/31/190122-more-people-left-california-last-year-vs-arrived-a-38-jump/
-
-    * https://showmehome.com/unpacking-californias-migration-trends/ 
-
-    * https://www.ppic.org/press-release/whos-movin-out-of-california/ 	
-
-    * https://www.latimes.com/california/story/2019-12-21/california-population-continues-to-decline-with-state-emigration-a-major-factor
-
-    * https://next10.org/sites/default/files/California-Migration-Final2.pdf
-
-
 ## **Scripts**
 
 * `vba_for_migration.vb` - VBA script to collect migration data from the state-to-state migration Tables (Census) for selected year. Final DataFrame with migration data over 6 years (2013-2018) can be found in here (Data/Total_Migration_2013-2018_CSV.csv).
