@@ -142,11 +142,7 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **IV. Transportation/Traffic Congestion (travel time to & from work)**
 
-<p align="left">
-  <img width="50%" src="Images/Travel_Time_to_Work_in_CA_vs_other_states.png"> 
-</p>
-
-![travel_time_bar](Images/6_States_Travel_Time%_in_(2018).png)
+![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) ![travel_time_bar](Images/6_States_Travel_Time%_in_(2018).png)
 
 * Travel time to work could be one of the reason people are leaving California compare with other five states. 
 * In these graphs we can see that people spend more time to travel to work instead of being with their family. 
