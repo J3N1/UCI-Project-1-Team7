@@ -110,7 +110,7 @@ Time Frame: 5 year time frame 2013-2018
 
 ![population_ca](Images/CAPopulation.png) 
 
-![migrations_state-to-state](Images/CAMigration.png.png)
+![migrations_state-to-state](Images/CAMigration.png)
 
 * Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
 
@@ -122,7 +122,7 @@ Time Frame: 5 year time frame 2013-2018
 
 * We found that growth of Asian population seems the reason of growing California’s population.
 
-![asian_in_ca](Images/CAMigration.png.png)
+
 
 ### **III. Population and Unemployment Findings**
 
@@ -130,6 +130,18 @@ Time Frame: 5 year time frame 2013-2018
 
 * California unemployment count is decreasing by years. 
 * Based on census data, California’s unemployment count declines more than other states. 
+
+![unemployment](Images/Population_vs_Unemployment_Count.png) ![unemployment](Images/Unemployment_count_and_Leaving_from_CA.png)
+
+* California population is growing.
+
+* Count of leaving California is growing.
+
+* Unemployment count is decreasing.
+
+* We found that population and unemployment count indicate a negative correlation.
+
+* Therefore, we conclude that unemployment is not the reason of people leaving California.
 
 
 
