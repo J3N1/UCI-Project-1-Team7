@@ -1,5 +1,18 @@
 # **Californians on the Move**
 
+## **Team and Contributions**
+
+* **Jenifer Hwang**: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
+
+* **Daniel Kim**: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
+
+* **Natalia Karimova**: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
+
+* **Hossein Esteaneh**: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
+
+* **Sara McLean**: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
+
+
 ## **Project Description and Scope**
 
 More Californians are leaving the state than migrating into the state. 
@@ -22,25 +35,26 @@ Population Competitive View: Colorado, Florida, Idaho, Oregon, Texas
 5 states chosen based on migration data and supporting articles of top states Californians moving to
 Time Frame: 5 year time frame 2013-2018
 
-## **Team and Contributions**
+## **Addressed Questions**
 
-* **Jenifer Hwang**: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
+* What are the top reasons people are leaving California?
 
-* **Daniel Kim**: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
+* Does unemployment affect population movement out of California?
 
-* **Natalia Karimova**: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
+* Do rent and housing price increases affect population movement?
 
-* **Hossein Esteaneh**: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
+* Do transportation/traffic congestion times (travel to/from work) affect population movement?
 
-* **Sara McLean**: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
+* Does income level affect population movement?
+
+* What are the demographics (specifically race) of the population movement?
 
 ## **Data Set and Supporting Information**
 
-* Transportation; Population; Incomes; Housing Costs; Taxation; Populations
-
-    * api.census.gov/
+* Census Data for Transportation, Population, Incomes, Housing Costs, Taxation (api.census.gov): [link](https://api.census.gov/data/2017/acs/acs5/groups.html)
 
 * State-to-state migration Tables (Census): [link](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
+
 
 ## **Scripts**
 
