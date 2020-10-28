@@ -1,5 +1,18 @@
 # **Californians on the Move**
 
+## **Team and Contributions**
+
+* **Jenifer Hwang**: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
+
+* **Daniel Kim**: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
+
+* **Natalia Karimova**: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
+
+* **Hossein Esteaneh**: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
+
+* **Sara McLean**: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
+
+
 ## **Project Description and Scope**
 
 More Californians are leaving the state than migrating into the state. 
@@ -22,47 +35,25 @@ Population Competitive View: Colorado, Florida, Idaho, Oregon, Texas
 5 states chosen based on migration data and supporting articles of top states Californians moving to
 Time Frame: 5 year time frame 2013-2018
 
-## **Team and Contributions**
+## **Addressed Questions**
 
-* **Jenifer Hwang**: Project manager, Results discussion, Mining data and script/analysis for Population, Migration and Poverty.
+* What are the top reasons people are leaving California?
 
-* **Daniel Kim**: Mining data and script/analysis Mining data for Unemployment, Demographics (i.e., race).
+* Does unemployment affect population movement out of California?
 
-* **Natalia Karimova**: Results discussion, ReadMe.md file, Script for collecting data from Census into one DataFrame (jupyter notbook script), VBA script to pull migration data together from Census Excel files, put all analysis-scripts together in one final script, Mining data and script/analysis for Rent and Housing.
+* Do rent and housing price increases affect population movement?
 
-* **Hossein Esteaneh**: Results discussion, Mining data and script/analysis for Transportation/Traffic Congestion.
+* Do transportation/traffic congestion times (travel to/from work) affect population movement?
 
-* **Sara McLean**: Results discussion, Generating the Proposal and Final PowerPoint Presentation, Mining data and script/analysis for Household Income, Gini Co-efficient.
+* Does income level affect population movement?
+
+* What are the demographics (specifically race) of the population movement?
 
 ## **Data Set and Supporting Information**
 
-* Transportation; Population; Incomes; Housing Costs; Taxation; Populations
+* Census Data for Transportation, Population, Incomes, Housing Costs, Taxation (api.census.gov): [link](https://api.census.gov/data/2017/acs/acs5/groups.html)
 
-    * api.census.gov/
-
-* State-to-state migration Tables (Census): 
-
-    * https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html
-
-* Supporting Information:
-
-    * https://www.economy.com/united-states/net-migration
-
-    * https://www.nytimes.com/2020/01/09/upshot/american-population-slowdown.html
-
-    * https://www.prb.org/usdata/indicator/migration/map/state/2010/ 
-
-    * https://www.census.gov/library/stories/2019/04/moves-from-south-west-dominate-recent-migration-flows.html
-
-    * https://www.ocregister.com/2019/10/31/190122-more-people-left-california-last-year-vs-arrived-a-38-jump/
-
-    * https://showmehome.com/unpacking-californias-migration-trends/ 
-
-    * https://www.ppic.org/press-release/whos-movin-out-of-california/ 	
-
-    * https://www.latimes.com/california/story/2019-12-21/california-population-continues-to-decline-with-state-emigration-a-major-factor
-
-    * https://next10.org/sites/default/files/California-Migration-Final2.pdf
+* State-to-state migration Tables (Census): [link](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
 
 
 ## **Scripts**
@@ -108,13 +99,16 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **I. Population and Migration Findings**
 
-![population_ca](Images/CAPopulation.png) ![migrations_state-to-state](Images/CAMigration.png)
+![population_ca](Images/CAPopulation.png) 
+
+![migrations_state-to-state](Images/CAMigration.png)
 
 * Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
 
 ### **II. Population and Demographics**
 
 ![demographocs_ca](Images/California_Race_Change_by_years.png) 
+
 ![asian_count_ca](Images/Asiancount_cal_bar.png)
 
 * From 2013 to 2018 there are no significant change on demographics. Only Asian population is  moderately increased compare to other races.
@@ -128,7 +122,9 @@ Time Frame: 5 year time frame 2013-2018
 * California unemployment count is decreasing by years. 
 * Based on census data, California’s unemployment count declines more than other states. 
 
-![unemployment](Images/Population_vs_Unemployment_Count.png) ![unemployment](Images/Unemployment_count_and_Leaving_from_CA.png)
+![unemployment](Images/Population_vs_Unemployment_Count.png) 
+
+![unemployment](Images/Unemployment_count_and_Leaving_from_CA.png)
 
 * California population is growing.
 
@@ -142,26 +138,79 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **IV. Transportation/Traffic Congestion (travel time to & from work)**
 
-![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) ![travel_time_bar](Images/6_States_Travel_Time%_in_(2018).png)
+![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) 
+
+![travel_time_bar](Images/6_States_Travel_Time_in_2018.png)
 
 * Travel time to work could be one of the reason people are leaving California compare with other five states. 
-* In these graphs we can see that people spend more time to travel to work instead of being with their family. 
+
+* In these graphs we can see that people spend more time to travel to work instead of being with their family.
+
 * Texas and Florida have more travel time to work after California, and Idaho is the lowest. 
+
 * In this pie graph we could see people in California spend the most travel time to work and Idaho with the lowest .
 
+### **V. Poverty Rate and Per Capita Income Findings**
 
+![Poverty_Rate ](Images/PovertyRate.png)
+
+* Poverty Rate has been decreasing over the years but it could be indicator of change in inflation.
+
+![per_capita_income](Images/PerCapitaIncome.png)
+
+* Per Capita Income is used to evaluate the standard of living and quality of life. It is calculated by Income divided by Population. 
+* Even though the Per Capita Income is increasing it does not necessarily mean that the standard of living is increasing as well. 
+* The Per Capita Income does not take into account inflation changes over the years. The Census calculated these numbers using the 2017 inflation adjusted numbers.
+
+### **VI. Household Income, ACS Gini co-efficient and State Tax Data**
+
+![median_househome_income](Images/HHIncomeCA_5States.png)
+
+* Median household income from US Census highlights that California leads in income among the 5 competing states and US average
+California shows higher incomes compared to USA average and 5 competing states over 5 year data span.
+
+![acs_gini](Images/Gini_CoSummary.png)
+
+* ACS Gini co-efficient: measure of income inequality calculated by US Census:
+      * 0: closer to zero (0) represents perfect equality
+      * 1: closer to one(1) represents perfect inequality
+
+* California show higher income inequality than 5 competing states and USA average
+While California shows higher incomes over 5 competing states, there is higher income inequality among the population compared to 5 competing states and USA average
+
+![state_tax_data](Images/StateTaxSummary.png)
+
+* State Tax Data: represents %  state tax households pay within CA and 5 competing states.
+* California pays higher state taxes than 5 competing states.
+* While California has higher incomes,  more goes to taxes than other states.
+
+### **VII. Migration vs Rent & Housing**
+
+![rent](Images/Median_Rent_as_Percentage_of_Houshold_Income.png) ![house_with_mortgage](Images/Median_Owner_Cost_for_House_With_Mortgage.png)
+
+* Both California and Florida have higher rent. 
+
+* California is the most expensive state to buy a house with mortgage.
+
+* The most attractive states to have property is ID, TX and CO.
+
+* There is a weak positive correlation between migration out of CA and housing prices (r-value = 0.45). So, there are additional more valuable reasons why people prefer to move out from CA.
 
 ## **Summary and Conclusions**
 
 * General Conclusions and What Findings Mean:
 
-The information gathered from the US Census confirms our hypothesis that money inequality, expensive housing and traffic congestion are a few of many factors that are leading Californians to leave the state.
+   * The information gathered from the US Census confirms our hypothesis that money inequality, expensive housing and traffic congestion are a few of many factors that are leading Californians to leave the state.
 
-Implications: These are not the only factors beyond those covered in the US Census that are reasons why people may be leaving.
-2. Difficulties
-We faced difficulties in using some of the US Census API data as it wouldn’t always lead where we needed for information. Many hours were needed to locate some of the necessary data used for the project.
-3. Additional Questions
-We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
+* Implications: 
 
+   * These are not the only factors beyond those covered in the US Census that are reasons why people may be leaving.
+      
+* Difficulties:
+   
+   * We faced difficulties in using some of the US Census API data as it wouldn’t always lead where we needed for information. Many hours were needed to locate some of the necessary data used for the project.
 
+* Additional Questions:
+   
+   * We would include more states and more years if we had more time. We would also look to add more variables into the data set including immigration data into California, birth rates, climate change including fire disasters, education expenses, other deciding factors for leaving California.
 
