@@ -106,6 +106,13 @@ Time Frame: 5 year time frame 2013-2018
 
 ## **Results and Discussions**:
 
+### **I. Population and Migration Findings**
+
+![population_cap](Images/CAPopulation.png)
+![population_cap](Images/CAMigration.png.png)
+
+* Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
+
 
 
 ## **Summary and Conclusions**
