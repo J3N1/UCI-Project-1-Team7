@@ -142,17 +142,27 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **IV. Transportation/Traffic Congestion (travel time to & from work)**
 
-![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) 
-
-![travel_time_bar](Images/6_States_Travel_Time_in_2018.png)
-
-
+![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) ![travel_time_bar](Images/6_States_Travel_Time_in_2018.png)
 
 * Travel time to work could be one of the reason people are leaving California compare with other five states. 
-* In these graphs we can see that people spend more time to travel to work instead of being with their family. 
+
+* In these graphs we can see that people spend more time to travel to work instead of being with their family.
+
 * Texas and Florida have more travel time to work after California, and Idaho is the lowest. 
+
 * In this pie graph we could see people in California spend the most travel time to work and Idaho with the lowest .
 
+### **V. Poverty Rate and Per Capita Income Findings**
+
+![Poverty_Rate ](Images/PovertyRate.png)
+
+* Poverty Rate has been decreasing over the years but it could be indicator of change in inflation.
+
+![per_capita_income](Images/PerCapitaIncome.png)
+
+* Per Capita Income is used to evaluate the standard of living and quality of life. It is calculated by Income divided by Population. 
+* Even though the Per Capita Income is increasing it does not necessarily mean that the standard of living is increasing as well. 
+* The Per Capita Income does not take into account inflation changes over the years. The Census calculated these numbers using the 2017 inflation adjusted numbers.
 
 
 ## **Summary and Conclusions**
