@@ -108,13 +108,16 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **I. Population and Migration Findings**
 
-![population_ca](Images/CAPopulation.png) ![migrations_state-to-state](Images/CAMigration.png)
+![population_ca](Images/CAPopulation.png) 
+
+![migrations_state-to-state](Images/CAMigration.png)
 
 * Even though, population in the overall state has been increasing, more people over the years have been moving out of CA.
 
 ### **II. Population and Demographics**
 
 ![demographocs_ca](Images/California_Race_Change_by_years.png) 
+
 ![asian_count_ca](Images/Asiancount_cal_bar.png)
 
 * From 2013 to 2018 there are no significant change on demographics. Only Asian population is  moderately increased compare to other races.
@@ -128,7 +131,9 @@ Time Frame: 5 year time frame 2013-2018
 * California unemployment count is decreasing by years. 
 * Based on census data, California’s unemployment count declines more than other states. 
 
-![unemployment](Images/Population_vs_Unemployment_Count.png) ![unemployment](Images/Unemployment_count_and_Leaving_from_CA.png)
+![unemployment](Images/Population_vs_Unemployment_Count.png) 
+
+![unemployment](Images/Unemployment_count_and_Leaving_from_CA.png)
 
 * California population is growing.
 
@@ -142,7 +147,9 @@ Time Frame: 5 year time frame 2013-2018
 
 ### **IV. Transportation/Traffic Congestion (travel time to & from work)**
 
-![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) ![travel_time_bar](Images/6_States_Travel_Time_in_2018.png)
+![travel_time](Images/Travel_Time_to_Work_in_CA_vs_other_states.png) 
+
+![travel_time_bar](Images/6_States_Travel_Time_in_2018.png)
 
 * Travel time to work could be one of the reason people are leaving California compare with other five states. 
 
@@ -163,6 +170,31 @@ Time Frame: 5 year time frame 2013-2018
 * Per Capita Income is used to evaluate the standard of living and quality of life. It is calculated by Income divided by Population. 
 * Even though the Per Capita Income is increasing it does not necessarily mean that the standard of living is increasing as well. 
 * The Per Capita Income does not take into account inflation changes over the years. The Census calculated these numbers using the 2017 inflation adjusted numbers.
+
+### **VI. Household Income, ACS Gini co-efficient and State Tax Data**
+
+![median_househome_income](Images/HHIncomeCA_5States.png)
+
+* Median household income from US Census highlights that California leads in income among the 5 competing states and US average
+California shows higher incomes compared to USA average and 5 competing states over 5 year data span.
+
+![acs_gini](Images/Gini_CoSummary.png)
+
+ACS Gini co-efficient: measure of income inequality calculated by US Census
+0: closer to zero (0) represents perfect equality
+1: closer to one(1) represents perfect inequality
+
+* California show higher income inequality than 5 competing states and USA average
+While California shows higher incomes over 5 competing states, there is higher income inequality among the population compared to 5 competing states and USA average
+
+![state_tax_data](Images/StateTaxSummary.png)
+
+* State Tax Data: represents %  state tax households pay within CA and 5 competing states.
+* California pays higher state taxes than 5 competing states.
+* While California has higher incomes,  more goes to taxes than other states.
+
+
+
 
 
 ## **Summary and Conclusions**
